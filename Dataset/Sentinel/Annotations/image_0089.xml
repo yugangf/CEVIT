@@ -1,0 +1,39 @@
+<annotation>
+   <folder>Images</folder>
+   <filename>image_0089.jpg</filename>
+   <path>D:\Py project\Database\sentinel\Images\image_0089.jpg</path>
+   <source>
+      <database>Mydatasets</database>
+      <annotation>Time-Frequency Spectrum 2023</annotation>
+   </source>
+   <size>
+      <width>875</width>
+      <height>656</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>Interference</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>365</xmin>
+         <ymin>126</ymin>
+         <xmax>429</xmax>
+         <ymax>219</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>Interference</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>512</xmin>
+         <ymin>305</ymin>
+         <xmax>731</xmax>
+         <ymax>342</ymax>
+      </bndbox>
+   </object>
+</annotation>
