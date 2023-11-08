@@ -1,3 +1,3 @@
 # CEVIT
 
-code is coming soon
+Code is coming soon
