@@ -1,5 +1,5 @@
 # CEVIT
 
-Code is coming soon
+Self-Supervised Transformers for Unsupervised SAR Complex Interference Detection using Canny Edge Detector
 
-The dataset used has been uploaded
+Limited by the experimental environment, we divided every 100 sheets into a subset for the experiment when using the dataset
