@@ -1,4 +1,8 @@
 Here only contains the time-frequency spectrogram of  Sentinel-1
+
+Limited by the experimental environment, we divided every 100 sheets into a subset for the experiment when using the dataset
+Please refer to the database folder for details
+
 Time-frequency spectrogram of all, please get from here:
 
 https://drive.google.com/drive/folders/1p7s1d_pw7yKEJECK5rAfZK-RRFe4P_ij?usp=drive_link
