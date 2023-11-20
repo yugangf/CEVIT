@@ -1,0 +1,39 @@
+<annotation>
+   <folder>Images</folder>
+   <filename>image_0468.jpg</filename>
+   <path>D:\Py project\Database\val_separate\val_500\Images\image_0468.jpg</path>
+   <source>
+      <database>Mydatasets</database>
+      <annotation>Time-Frequency Spectrum 2023</annotation>
+   </source>
+   <size>
+      <width>875</width>
+      <height>656</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>Interference</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1</xmin>
+         <ymin>277</ymin>
+         <xmax>229</xmax>
+         <ymax>359</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>Interference</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>669</xmin>
+         <ymin>470</ymin>
+         <xmax>803</xmax>
+         <ymax>518</ymax>
+      </bndbox>
+   </object>
+</annotation>
